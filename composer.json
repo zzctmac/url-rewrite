@@ -1,0 +1,15 @@
+{
+    "name": "zzc/rewrite",
+    "description": "test rewrite",
+    "minimum-stability": "dev",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "zzc",
+            "email": "2272713550@qq.com"
+        }
+    ],
+    "autoload":{
+
+    }
+}
